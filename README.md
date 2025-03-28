@@ -1,7 +1,4 @@
 # 📊 Dashboard de Vendas, Custo, Margem de Lucro e KPI  
-
-Este repositório contém uma análise de dados realizada no **Power BI** para monitoramento de indicadores-chave de desempenho (**KPIs**) relacionados a **vendas, custos, margem de lucro e desempenho de mercado**.  
-<br>
 <br>
 
 ## 📌 Objetivo  
