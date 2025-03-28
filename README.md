@@ -9,13 +9,11 @@ O principal objetivo deste projeto é fornecer uma visão detalhada sobre o dese
 ✅ Evolução da margem de lucro ao longo dos anos  
 ✅ Principais métricas e insights estratégicos  
 <br>
-<br>
 
 ## 🛠️ Ferramentas Utilizadas  
 - **Power BI**: Visualização e análise de dados  
 - **Python/Pandas** (opcional): Tratamento e limpeza dos dados  
 - **Excel/CSV**: Base de dados de clientes, pedidos, produtos e vendas  
-<br>
 <br>
 
 📂 Dashboard-Vendas-Globais  
@@ -23,7 +21,6 @@ O principal objetivo deste projeto é fornecer uma visão detalhada sobre o dese
  ┣ 📜 screenshots             # Captura de tela do dashboard  
  ┣ 📜 Dashboard.pbix          # Arquivo principal do Power BI  
  ┣ 📜 README.md               # Documentação detalhada do projeto    
-<br>
 <br>
 
 ## 📈 Visão Geral do Dashboard  
@@ -41,7 +38,6 @@ A análise abrange diferentes visualizações que permitem explorar o comportame
 ### 🔹 **4. Evolução da Margem de Lucro**  
 - Tendência da **margem de lucro** ao longo dos anos, identificando padrões e variações.  
 <br>
-<br>
 
 ## 🔍 Como Utilizar  
 1️⃣ Baixe ou clone este repositório:  
@@ -50,7 +46,6 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```  
 2️⃣ Abra o arquivo **Power BI (.pbix)** para explorar os dashboards interativos.  
 3️⃣ Analise os arquivos **.csv** para entender os dados utilizados.  
-<br>
 <br>
 
 ## 📢 Contribuição  
